@@ -8,12 +8,11 @@ plumber      = require 'gulp-plumber'
 rename       = require 'gulp-rename'
 stylus       = require 'gulp-stylus'
 
-
 gulp.task 'styles', ->
-  gulp.src 'src/stylus/*.styl'
+  gulp.src 'src/stylus/**/*.styl'
     .pipe plumber
       errorHandler: notify.onError 'Error: <%= error.message %>'
-    .pipe ignore.exclude 'src/stylus/_*.styl'
+    .pipe ignore.exclude '**/_*.styl'
     .on 'error', gutil.log
     .pipe stylus()
     .pipe autoprefixer 'last 5 version', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1'
