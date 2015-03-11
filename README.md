@@ -22,7 +22,7 @@ $ bower install font-larisome --save
 or add to your `bower.json` file
 
 ```
-"font-larisome": "*"
+"font-larisome": "~1.0.0"
 ```
 
 ## Usage
