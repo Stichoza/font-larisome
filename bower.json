@@ -1,0 +1,21 @@
+{
+  "name": "font-larisome",
+  "description": "Font Larisome",
+  "version": "1.0.0",
+  "keywords": ["lari", "icons", "currency", "gel"],
+  "homepage": "http://stichoza.com",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
+  "main": [
+    "./css/font-larisome.css",
+    "./fonts/*"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.json",
+    "src",
+    "*.yml",
+    "*.md"
+  ]
+}
