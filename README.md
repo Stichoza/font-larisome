@@ -1,5 +1,5 @@
 # font-larisome
-Iconic font for Georgian curreny inspired by Font-Awesome
+Iconic font for Georgian currency inspired by Font-Awesome
 
 ## Installation
 
