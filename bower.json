@@ -1,12 +1,12 @@
 {
   "name": "font-larisome",
-  "description": "Font Larisome",
+  "description": "Font Larisome - Iconic font for Georgian curreny",
   "version": "1.0.0",
   "keywords": ["lari", "icons", "currency", "gel"],
   "homepage": "http://stichoza.com",
   "dependencies": {},
   "devDependencies": {},
-  "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
+  "license": ["MIT"],
   "main": [
     "./css/font-larisome.css",
     "./fonts/*"
