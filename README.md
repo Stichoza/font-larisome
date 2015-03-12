@@ -5,13 +5,13 @@ Iconic font for Georgian currency inspired by Font-Awesome
 
 ## Installation
 
-### Manual
+#### Manual
 
 1. Download ZIP file and extract.
 2. Add to your project (you will need only `css` and `fonts` folders).
 3. Read usage docs.
 
-### Bower
+#### Bower
 
 If you are using [bower](http://bower.io) then you probably know what to do.
 
@@ -35,7 +35,7 @@ Just include the CSS file and you're ready to go
 <link rel="stylesheet" href="font-larisome/css/font-larisome.min.css">
 ```
 
-### Examples
+#### Examples
 
 ```html
 <i class="lari lari-normal"></i>
@@ -44,7 +44,7 @@ Just include the CSS file and you're ready to go
 ...
 ```
 
-### List of icons
+#### List of icons
 
  - `lari-a`, `lari-normal`
  - `lari-b`, `lari-bold`
@@ -59,3 +59,7 @@ Just include the CSS file and you're ready to go
  - `lari-k`, `lari-narrow-sans-thin`
  - `lari-l`, `lari-comic`
 
+## License
+
+**Code/CSS**: The MIT License (MIT)
+**Font**: Unknown
