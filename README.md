@@ -7,7 +7,7 @@ Iconic font for Georgian currency inspired by Font-Awesome
 
 #### Manual
 
-1. Download ZIP file and extract.
+1. [Download](https://github.com/Stichoza/font-larisome/releases) ZIP file and extract.
 2. Add to your project (you will need only `css` and `fonts` folders).
 3. Read usage docs.
 
