@@ -24,7 +24,7 @@ $ bower install font-larisome --save
 or add to your `bower.json` file
 
 ```
-"font-larisome": "~1.0.0"
+"font-larisome": "~1.1"
 ```
 
 ## Usage
@@ -39,9 +39,8 @@ Just include the CSS file and you're ready to go
 
 ```html
 <i class="lari lari-normal"></i>
-<i class="lari lari-bold"></i>
 <i class="lari lari-serif"></i>
-...
+<i class="lari lari-narrow-sans"></i>
 ```
 
 #### List of icons
@@ -58,8 +57,13 @@ Just include the CSS file and you're ready to go
  - `lari-j`, `lari-narrow-sans-bold`
  - `lari-k`, `lari-narrow-sans-thin`
  - `lari-l`, `lari-comic`
+ - `lari-m`, `lari-square-round`
+ - `lari-n`, `lari-square-plain`
+ - `lari-o`, `lari-square-narrow-plain`
+ - `lari-p`, `lari-square-narrow`
 
 ## License
 
 **Code/CSS**: The MIT License (MIT)
+
 **Font**: Unknown
