@@ -20,6 +20,6 @@
     "src",
     "*.yml",
     "*.md",
-    "gulpfile.js"
+    "gulpfile.*"
   ]
 }
