@@ -2,10 +2,10 @@
   "name": "font-larisome",
   "description": "Font Larisome - Iconic font for Georgian currency inspired by Font-Awesome",
   "version": "1.1.0",
-  "keywords": ["lari", "icons", "currency", "gel", "georgia"],
+  "keywords": ["lari", "icons", "currency", "gel", "georgia", "symbol"],
   "homepage": "http://stichoza.com",
   "authors": [
-    "Levan Velijanashvili <me@stichoza.com> (http://stichoza.com)"
+    "Levan Velijanashvili <me@stichoza.com> (https://stichoza.com)"
   ],
   "dependencies": {},
   "devDependencies": {},
