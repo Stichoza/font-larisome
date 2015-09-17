@@ -2,12 +2,25 @@
   "name": "font-larisome",
   "description": "Font Larisome - Iconic font for Georgian currency inspired by Font-Awesome",
   "version": "1.1.0",
-  "keywords": ["lari", "icons", "currency", "gel"],
+  "keywords": ["lari", "icons", "currency", "gel", "georgian", "font", "larisome", "awesome"],
   "homepage": "http://stichoza.com",
+  "author": {
+    "name": "Levan Velijanashvili",
+    "email": "me@stichoza.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stichoza/font-larisome"
+    "url": "git://github.com/Stichoza/font-larisome.git"
   },
+  "bugs": {
+    "url": "https://github.com/Stichoza/font-larisome/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Stichoza/font-larisome/blob/master/LICENSE"
+    }
+  ],
   "dependencies": {
   },
   "devDependencies": {
