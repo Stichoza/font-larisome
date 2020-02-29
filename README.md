@@ -1,7 +1,9 @@
 # Font Larisome
 [![GitHub stars](https://img.shields.io/github/stars/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome) [![GitHub release](https://img.shields.io/github/release/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome) [![GitHub tag](https://img.shields.io/github/tag/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome)
 
-Iconic font for Georgian currency inspired by Font-Awesome
+Iconic font for Georgian Lari inspired by Font-Awesome.
+
+> **Note:** If you're looking for a unicode character, just copy this `₾` and you're welcome.
 
 ## Installation
 
