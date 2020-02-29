@@ -1,4 +1,4 @@
-# Font-Larisome
+# Font Larisome
 [![GitHub stars](https://img.shields.io/github/stars/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome) [![GitHub release](https://img.shields.io/github/release/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome) [![GitHub tag](https://img.shields.io/github/tag/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome)
 
 Iconic font for Georgian currency inspired by Font-Awesome
@@ -7,10 +7,26 @@ Iconic font for Georgian currency inspired by Font-Awesome
 
 #### Manual
 
-1. Consider using [bower](#bower) or [npm](#npm), otherwise continue to step 2.
+1. Consider using [npm](#npm) or [yarn](#yarn), otherwise continue to step 2.
 1. [Download](https://github.com/Stichoza/font-larisome/releases) ZIP file and extract.
 1. Add to your project (you will need only `css` and `fonts` folders).
 1. Read usage docs.
+
+#### NPM
+
+You can install this package using [npm](https://npmjs.com).
+
+```
+npm install font-larisome
+```
+
+#### Yarn
+
+You can also install this package using [yarn](https://yarnpkg.com).
+
+```
+yarn add font-larisome
+```
 
 #### Bower
 
@@ -26,14 +42,6 @@ or add to your `bower.json` file
 
 ```
 "font-larisome": "~1.1"
-```
-
-#### NPM
-
-You can also install this package using [npm](https://npmjs.com).
-
-```
-npm install font-larisome
 ```
 
 ## Usage
