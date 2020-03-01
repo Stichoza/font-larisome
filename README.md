@@ -83,26 +83,6 @@ Just include the CSS file and you're ready to go
 | <img src="https://cloud.githubusercontent.com/assets/1606993/7555189/5781b6c0-f754-11e4-97ba-a3caa435fb19.png" width="64px" alt="lari-square-narrow-plain"> | `lari-o`, `lari-square-narrow-plain` | O o |
 | <img src="https://cloud.githubusercontent.com/assets/1606993/7555193/5795b01c-f754-11e4-9948-4c977fcb89bc.png" width="64px" alt="lari-square-narrow"> | `lari-p`, `lari-square-narrow` | P p |
 
-## License
+### Keywords
 
-The MIT License (MIT)
-
-Copyright (c) 2015 Levan Velijanashvili
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+> ლარის სიმბოლო, ლარის ლოგო, ლარის ფონტი, lari font, laris simbolo, georgian lari font icon
