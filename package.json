@@ -34,5 +34,8 @@
   "dependencies": {},
   "devDependencies": {
     "node-sass": "^4.13.1"
+  },
+  "scripts": {
+    "scss": "node-sass --watch scss -o dist/css --output-style compressed"
   }
 }
