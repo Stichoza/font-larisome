@@ -30,28 +30,18 @@ You can also install this package using [yarn](https://yarnpkg.com).
 yarn add font-larisome
 ```
 
-#### Bower
-
-If you are using [bower](http://bower.io) then you probably know what to do.
-
-Just type in your terminal
-
-```
-bower install font-larisome --save 
-```
-
-or add to your `bower.json` file
-
-```
-"font-larisome": "~1.1"
-```
-
 ## Usage
 
 Just include the CSS file and you're ready to go
 
 ```html
 <link rel="stylesheet" href="font-larisome/css/font-larisome.min.css">
+```
+
+Or if you're using Sass/SCSS, you can do
+
+```scss
+@import '~font-larisome';
 ```
 
 #### Examples
