@@ -3,9 +3,14 @@
 @import 'icons';
 
 @each $content, $names in $icons {
-  @each $name in $names {
-    #{$name} {
+  %content-#{$content} {
+    &:before {
       content: $content;
+    }
+  }
+  @each $name in $names {
+    .lari-#{$name} {
+      @extend %content-#{$content};
     }
   }
 }
