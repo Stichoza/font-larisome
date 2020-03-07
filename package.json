@@ -4,6 +4,7 @@
   "version": "1.1.0",
   "keywords": ["lari", "icons", "currency", "gel", "georgian", "font", "larisome", "awesome"],
   "homepage": "http://stichoza.com",
+  "style": "css/font-larisome.min.css",
   "author": {
     "name": "Levan Velijanashvili",
     "email": "me@stichoza.com"
