@@ -12,8 +12,8 @@
     "larisome",
     "awesome"
   ],
+  "style": "dist/css/font-larisome.min.css",
   "homepage": "http://stichoza.com",
-  "style": "css/font-larisome.min.css",
   "author": {
     "name": "Levan Velijanashvili",
     "email": "me@stichoza.com"
