@@ -1,0 +1,11 @@
+@import 'font-face';
+@import 'element';
+@import 'icons';
+
+@each $content, $names in $icons {
+  @each $name in $names {
+    #{$name} {
+      content: $content;
+    }
+  }
+}
