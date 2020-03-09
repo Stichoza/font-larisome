@@ -37,6 +37,6 @@
     "node-sass": "^4.13.1"
   },
   "scripts": {
-    "scss": "node-sass --watch scss -o css --output-style compressed"
+    "build": "node-sass scss -o css --output-style compressed --source-map true"
   }
 }
