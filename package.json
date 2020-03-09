@@ -13,7 +13,7 @@
     "awesome"
   ],
   "sass": "sass/font-larisome.scss",
-  "style": "dist/css/font-larisome.min.css",
+  "style": "css/font-larisome.css",
   "homepage": "http://stichoza.com",
   "author": {
     "name": "Levan Velijanashvili",
