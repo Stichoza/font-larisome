@@ -14,6 +14,7 @@
   ],
   "sass": "scss/font-larisome.scss",
   "style": "css/font-larisome.css",
+  "main": "css/font-larisome.css",
   "homepage": "http://stichoza.com",
   "author": {
     "name": "Levan Velijanashvili",
