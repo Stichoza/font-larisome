@@ -3,7 +3,7 @@
 
 Iconic font for Georgian Lari inspired by Font-Awesome.
 
-> **Note:** If you're looking for a unicode character, just copy this `₾` and you're welcome.
+> **Note:** If you're looking for a unicode character, just copy `₾` and you're good.
 
 ## Installation
 
@@ -32,13 +32,13 @@ yarn add font-larisome
 
 ## Usage
 
-Just include the CSS file and you're ready to go
+Just include the CSS file and you're good to go
 
 ```html
-<link rel="stylesheet" href="font-larisome/css/font-larisome.min.css">
+<link rel="stylesheet" href="font-larisome/css/font-larisome.css">
 ```
 
-Or if you're using Sass/SCSS, you can do
+Or if you're using Sass, you can simply do
 
 ```scss
 @import '~font-larisome';
