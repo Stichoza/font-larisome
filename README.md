@@ -32,13 +32,13 @@ yarn add font-larisome
 
 ## Usage
 
-Just include the CSS file and you're good to go
+Just include the CSS file and you're good to go.
 
 ```html
 <link rel="stylesheet" href="font-larisome/css/font-larisome.css">
 ```
 
-Or if you're using Sass, you can simply do
+Or if you're using [Laravel Mix](https://laravel.com/docs/mix) or [Webpack](https://webpack.js.org) to build [Sass](https://sass-lang.com) files, you can simply do:
 
 ```scss
 @import '~font-larisome';
