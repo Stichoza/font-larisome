@@ -12,7 +12,7 @@
     "larisome",
     "awesome"
   ],
-  "sass": "sass/font-larisome.scss",
+  "sass": "scss/font-larisome.scss",
   "style": "css/font-larisome.css",
   "homepage": "http://stichoza.com",
   "author": {
