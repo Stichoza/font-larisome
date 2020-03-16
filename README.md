@@ -1,5 +1,5 @@
 # Font Larisome
-[![GitHub stars](https://img.shields.io/github/stars/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome) [![GitHub release](https://img.shields.io/github/release/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome) [![GitHub tag](https://img.shields.io/github/tag/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome)
+[![GitHub stars](https://img.shields.io/github/stars/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome) [![GitHub release](https://img.shields.io/github/release/Stichoza/font-larisome.svg)](https://github.com/Stichoza/font-larisome) ![npm](https://img.shields.io/npm/dt/font-larisome)
 
 Iconic font for Georgian Lari inspired by Font-Awesome.
 
