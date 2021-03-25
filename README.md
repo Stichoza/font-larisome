@@ -44,10 +44,6 @@ Or if you're using [Laravel Mix](https://laravel.com/docs/mix) or [Webpack](http
 @import '~font-larisome';
 ```
 
-#### Font Display Swap
-
-There is a version with `font-display: swap` available in package. You can use that version by accessing `font-larisome-swap.css` instead of `font-larisome.css`. Same naming is available for SCSS version.
-
 #### Examples
 
 ```html
@@ -55,6 +51,10 @@ There is a version with `font-display: swap` available in package. You can use t
 <i class="lari lari-serif"></i>
 <i class="lari lari-narrow-sans"></i>
 ```
+
+### Font Display Swap
+
+There is a version with `font-display: swap` available in package. You can use that version by accessing `font-larisome-swap.css` instead of `font-larisome.css`. Same naming is available for SCSS version.
 
 #### List of icons
 
