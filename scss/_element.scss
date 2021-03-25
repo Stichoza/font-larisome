@@ -7,3 +7,16 @@
   -moz-osx-font-smoothing: grayscale;
   transform: translate(0, 0);
 }
+
+@each $content, $names in $icons {
+  %content-#{$content} {
+    &:before {
+      content: $content;
+    }
+  }
+  @each $name in $names {
+    .lari-#{$name} {
+      @extend %content-#{$content};
+    }
+  }
+}
