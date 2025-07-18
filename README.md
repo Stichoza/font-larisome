@@ -3,7 +3,8 @@
 
 Iconic font for Georgian Lari inspired by Font-Awesome.
 
-> **Note:** If you're looking for a unicode character, just copy `₾` and you're good.
+> [!Tip]
+> If you're looking for a unicode character, just copy `₾` and you're good.
 
 ## Installation
 
